@@ -464,4 +464,7 @@ We executed VBA macro but WORD immediately terminates the shell.Because macro do
 For mitigate this result we have to include another WIN32 API that is **`WaitForSingleObject`** with adding this api PowerShell script will be download and meterpreter session will continue 
 ![This is an image](./Client%20Side%20Code%20Execution/waitforsingle.png)
 
-https://youtu.be/N-7_JaEi1As?list=PLAXVYHMta5d4foizpSMGP9W3vFAo-9kCe&t=4767
+
+
+
+[https://youtu.be/N-7_JaEi1As?list=PLAXVYHMta5d4foizpSMGP9W3vFAo-9kCe&t=4767]: #
